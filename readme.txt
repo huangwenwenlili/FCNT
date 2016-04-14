@@ -1,3 +1,3 @@
-estiamte the scale explicitly
+Modified version of the original FCNT code before it was published on GitHub.
 
-2015-8-13 update: update the GetMap function to change way in wich Mask is generated 
+Originally written by Lijun Wang. Modified by Kai Kang (myfavouritekk@gmail.com).

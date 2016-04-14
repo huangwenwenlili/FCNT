@@ -1,0 +1,3 @@
+[submodule "caffe-fcn_tracking"]
+	path = caffe-fcn_tracking
+	url = https://github.com/scott89/caffe.git
